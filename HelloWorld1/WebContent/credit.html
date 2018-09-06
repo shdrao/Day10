@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body bgcolor='pink'>
+
+	<form align='center' action="credit" method="post">
+		
+			<h1>Enter your Details</h1>
+		
+		
+			<H6>CARD NUMBER</H6>
+			<input type="text" name="number" maxlength='16'>
+			<H6>NAME</H6>
+			<input type="text" name="name" required>
+			<H6>BANK</H6>
+			<input type="text" name="bank" required>
+			<H6>CVV</H6>
+			<input type="password" name="cvv" required maxlength='3'>
+			<H6>EXPIRY</H6>
+
+			<select name="month">
+				<option value="01">01</option>
+				<option value="02">02</option>
+				<option value="03">03</option>
+				<option value="04">04</option>
+				<option value="05">05</option>
+				<option value="06">06</option>
+				<option value="07">07</option>
+				<option value="08">08</option>
+				<option value="09">09</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+			</select>
+			<select name="year">
+				<option value="2018">2018</option>
+				<option value="2019">2019</option>
+				<option value="2020">2020</option>
+				<option value="2021">2021</option>
+				<option value="2022">2022</option>
+			</select>
+			<input type="submit">
+		
+	</form>
+
+</body>
+</html>

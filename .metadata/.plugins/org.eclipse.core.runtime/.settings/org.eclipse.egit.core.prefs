@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\shdrao\\Documents\\ServerRelated\\LoginApp1\\.git;
-GitRepositoriesView.GitDirectories.relative=LoginApp1\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\shdrao\\Documents\\ServerRelated\\LoginApp1\\.git;C\:\\Users\\shdrao\\Documents\\ServerRelated\\.git;
+GitRepositoriesView.GitDirectories.relative=LoginApp1\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

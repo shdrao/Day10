@@ -34,3 +34,32 @@ Sep 05, 2018 08:27:26.60 [1960:4212:0905/082726.602:ERROR:page_load_metrics_upda
 Sep 05, 2018 08:27:27.91 [1960:4212:0905/082727.913:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.02 s for parse_start 0.019 s
 Sep 05, 2018 08:27:29.32 [1960:4212:0905/082729.328:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.02 s for parse_start 0.019 s
 Sep 05, 2018 08:27:30.01 [1960:4212:0905/082730.011:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.02 s for parse_start 0.019 s
+
+Sep 06, 2018 02:17:01.52 NEW SESSION
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.53 [11364:16352:0906/021701.479:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:17:01.98 [11364:16352:0906/021701.986:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 02:50:39.57 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.58 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:39.60 [14868:5704:0906/025039.573:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 02:50:40.10 [14868:5704:0906/025040.107:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 02:51:24.56 Unable to read VR Path Registry from C:\Users\shdrao\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 03:10:04.18 [14868:16332:0906/031004.181:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 06, 2018 03:22:34.43 [14868:12992:0906/032234.433:ERROR:dns_config_service_win.cc(755)] DNS config watch failed.
