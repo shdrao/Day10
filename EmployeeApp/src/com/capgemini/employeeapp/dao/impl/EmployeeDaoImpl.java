@@ -19,7 +19,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		for (Employee employee : employees) {
 			if (employee.getEmployeeId() == employeeId)
 				return employee;
-			
+
 		}
 		return null;
 	}
@@ -35,21 +35,23 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		return false;
 	}
 
-	
-
 	@Override
-	public boolean addEmployee(Employee employee) {
-		return employees.remove(employee);
-		
+	public Employee updateEmployee(Employee employee) {
+		for (Employee employ : employees) {
+			if (employ.getEmployeeId() == employee.getEmployeeId()) {
+				employ.setEmployeeName(employee.getEmployeeName());
+				employ.setEmployeeSalary(employee.getEmployeeSalary());
+				employ.setEmployeeDepartment(employee.getEmployeeDepartment());
+			}
+			return employee;
+		}
+		return null;
 	}
 
 	@Override
-	public Employee updateEmployee(Employee employee) {
-		 {
-			
-			
-		}
-		return employee;
+	public boolean addEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return employees.add(employee);
 	}
 
 }
