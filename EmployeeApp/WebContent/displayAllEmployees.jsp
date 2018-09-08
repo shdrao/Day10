@@ -25,8 +25,8 @@
 			    <td>${employee.employeeName}</td>
 			    <td>${employee.employeeSalary}</td>
 			    <td>${employee.employeeDepartment}</td>		
-			    <td><a href="">Edit</a> </td>	
-			    <td><a href="">Delete</a> </td>		    
+			    <td><a href="editEmployee?id=${employee.employeeId}">Edit</a> </td>	
+			    <td><a href="deleteEmployee?id=${employee.employeeId}">Delete</a> </td>		    
 			</tr>
 		</c:forEach>		
 	</table>

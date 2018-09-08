@@ -22,7 +22,7 @@
 				<option value="ADMIN">ADMIN</option>
 				<option value="ACCOUNTS">ACCOUNTS</option>
 				<option value="HR">HR</option>
-			</select> <br> <br> <input type="submit" value="Add Employee" />
+			</select> <br> <br> <input type="submit" value="addEmployee" />
 
 		</form>
 

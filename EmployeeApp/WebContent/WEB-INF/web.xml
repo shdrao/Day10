@@ -3,5 +3,5 @@
   <display-name>EmployeeApp</display-name>
   <welcome-file-list>
     <welcome-file>addEmployee.jsp</welcome-file>
-    </welcome-file-list>
+  </welcome-file-list>
 </web-app>

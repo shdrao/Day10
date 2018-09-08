@@ -47,7 +47,7 @@ public class AddEmployeeController extends HttpServlet {
 		RequestDispatcher dispatcher = null;
 		if (employeeDao.addEmployee(employee)) {
 			
-			response.sendRedirect("getAllEmployees");
+			response.sendRedirect("GetAllEmployees");
 		} 
 		else {
 			dispatcher = request.getRequestDispatcher("error.jsp");

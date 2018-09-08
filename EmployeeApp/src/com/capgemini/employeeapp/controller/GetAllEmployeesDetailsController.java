@@ -19,7 +19,7 @@ import com.capgemini.employeeapp.model.Employee;
 
 
 
-@WebServlet("/getAllEmployees")
+@WebServlet("/GetAllEmployees")
 public class GetAllEmployeesDetailsController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private EmployeeDao employeeDao;
